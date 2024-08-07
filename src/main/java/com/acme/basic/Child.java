@@ -19,7 +19,7 @@ public class Child {
 
   public class Raspberry extends Fruit {
     private boolean ripe; // Noncompliant
-    private static Color FLESH; // Noncompliant
+    private Color FLESH; // Noncompliant
   }
 
 }
